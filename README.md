@@ -34,9 +34,12 @@
 
 ### Output:
 
+![Screenshot 2025-04-23 112549](https://github.com/user-attachments/assets/661718f1-2c75-4a8b-97d3-741331118e05)
 
-### Name:
-### Register Number:
+
+
+### Name:yashwanth asv
+### Register Number:212224230309
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
